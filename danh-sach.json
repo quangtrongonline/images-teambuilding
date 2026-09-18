@@ -1,0 +1,282 @@
+[
+  {
+    "source": "3.png",
+    "output": "png/3-tinh-gon.png",
+    "svg": "svg/3-tinh-gon.svg",
+    "before": "xem-truoc/3-tinh-gon-truoc.webp",
+    "after": "xem-truoc/3-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      56,
+      32,
+      493,
+      106
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "4.png",
+    "output": "png/4-tinh-gon.png",
+    "svg": "svg/4-tinh-gon.svg",
+    "before": "xem-truoc/4-tinh-gon-truoc.webp",
+    "after": "xem-truoc/4-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      56,
+      28,
+      493,
+      102
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "5.png",
+    "output": "png/5-tinh-gon.png",
+    "svg": "svg/5-tinh-gon.svg",
+    "before": "xem-truoc/5-tinh-gon-truoc.webp",
+    "after": "xem-truoc/5-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      212,
+      20,
+      629,
+      92
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "6.png",
+    "output": "png/6-tinh-gon.png",
+    "svg": "svg/6-tinh-gon.svg",
+    "before": "xem-truoc/6-tinh-gon-truoc.webp",
+    "after": "xem-truoc/6-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      242,
+      16,
+      659,
+      88
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "7.png",
+    "output": "png/7-tinh-gon.png",
+    "svg": "svg/7-tinh-gon.svg",
+    "before": "xem-truoc/7-tinh-gon-truoc.webp",
+    "after": "xem-truoc/7-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      202,
+      17,
+      619,
+      89
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "checkin-gala-cong-nghe-pos365-vnpay-demo.png",
+    "output": "png/checkin-gala-cong-nghe-pos365-vnpay-demo-tinh-gon.png",
+    "svg": "svg/checkin-gala-cong-nghe-pos365-vnpay-demo-tinh-gon.svg",
+    "before": "xem-truoc/checkin-gala-cong-nghe-pos365-vnpay-demo-tinh-gon-truoc.webp",
+    "after": "xem-truoc/checkin-gala-cong-nghe-pos365-vnpay-demo-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      584,
+      19,
+      901,
+      77
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "checkin-gala-cong-nghe-pos365-vnpay-demo-2.png",
+    "output": "png/checkin-gala-cong-nghe-pos365-vnpay-demo-2-tinh-gon.png",
+    "svg": "svg/checkin-gala-cong-nghe-pos365-vnpay-demo-2-tinh-gon.svg",
+    "before": "xem-truoc/checkin-gala-cong-nghe-pos365-vnpay-demo-2-tinh-gon-truoc.webp",
+    "after": "xem-truoc/checkin-gala-cong-nghe-pos365-vnpay-demo-2-tinh-gon-sau.webp",
+    "size": [
+      1484,
+      1060
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      584,
+      31,
+      901,
+      89
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "check-in-dia-diem.png",
+    "output": "png/check-in-dia-diem-tinh-gon.png",
+    "svg": "svg/check-in-dia-diem-tinh-gon.svg",
+    "before": "xem-truoc/check-in-dia-diem-tinh-gon-truoc.webp",
+    "after": "xem-truoc/check-in-dia-diem-tinh-gon-sau.webp",
+    "size": [
+      2079,
+      756
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      56,
+      27,
+      373,
+      85
+    ],
+    "tone": "color",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "check-in-dia-diem-2.png",
+    "output": "png/check-in-dia-diem-2-tinh-gon.png",
+    "svg": "svg/check-in-dia-diem-2-tinh-gon.svg",
+    "before": "xem-truoc/check-in-dia-diem-2-tinh-gon-truoc.webp",
+    "after": "xem-truoc/check-in-dia-diem-2-tinh-gon-sau.webp",
+    "size": [
+      2079,
+      756
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      871,
+      37,
+      1208,
+      98
+    ],
+    "tone": "color",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "check-in-dia-diem-3.png",
+    "output": "png/check-in-dia-diem-3-tinh-gon.png",
+    "svg": "svg/check-in-dia-diem-3-tinh-gon.svg",
+    "before": "xem-truoc/check-in-dia-diem-3-tinh-gon-truoc.webp",
+    "after": "xem-truoc/check-in-dia-diem-3-tinh-gon-sau.webp",
+    "size": [
+      1860,
+      846
+    ],
+    "kind": "Gala / check-in",
+    "logo_box": [
+      52,
+      24,
+      349,
+      79
+    ],
+    "tone": "color",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "team-building-mua-he-pos365-demo-v2.png",
+    "output": "png/team-building-mua-he-pos365-demo-v2-tinh-gon.png",
+    "svg": "svg/team-building-mua-he-pos365-demo-v2-tinh-gon.svg",
+    "before": "xem-truoc/team-building-mua-he-pos365-demo-v2-tinh-gon-truoc.webp",
+    "after": "xem-truoc/team-building-mua-he-pos365-demo-v2-tinh-gon-sau.webp",
+    "size": [
+      1619,
+      971
+    ],
+    "kind": "Team building",
+    "logo_box": [
+      642,
+      38,
+      979,
+      99
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "team-building-mua-he-pos365-demo-v3.png",
+    "output": "png/team-building-mua-he-pos365-demo-v3-tinh-gon.png",
+    "svg": "svg/team-building-mua-he-pos365-demo-v3-tinh-gon.svg",
+    "before": "xem-truoc/team-building-mua-he-pos365-demo-v3-tinh-gon-truoc.webp",
+    "after": "xem-truoc/team-building-mua-he-pos365-demo-v3-tinh-gon-sau.webp",
+    "size": [
+      1619,
+      971
+    ],
+    "kind": "Team building",
+    "logo_box": [
+      642,
+      38,
+      979,
+      99
+    ],
+    "tone": "color",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "team-building-mua-he-pos365-demo-v4.png",
+    "output": "png/team-building-mua-he-pos365-demo-v4-tinh-gon.png",
+    "svg": "svg/team-building-mua-he-pos365-demo-v4-tinh-gon.svg",
+    "before": "xem-truoc/team-building-mua-he-pos365-demo-v4-tinh-gon-truoc.webp",
+    "after": "xem-truoc/team-building-mua-he-pos365-demo-v4-tinh-gon-sau.webp",
+    "size": [
+      1619,
+      971
+    ],
+    "kind": "Team building",
+    "logo_box": [
+      642,
+      38,
+      979,
+      99
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  },
+  {
+    "source": "team-building-mua-he-pos365-demo.png",
+    "output": "png/team-building-mua-he-pos365-demo-tinh-gon.png",
+    "svg": "svg/team-building-mua-he-pos365-demo-tinh-gon.svg",
+    "before": "xem-truoc/team-building-mua-he-pos365-demo-tinh-gon-truoc.webp",
+    "after": "xem-truoc/team-building-mua-he-pos365-demo-tinh-gon-sau.webp",
+    "size": [
+      1619,
+      971
+    ],
+    "kind": "Team building",
+    "logo_box": [
+      642,
+      38,
+      979,
+      99
+    ],
+    "tone": "light",
+    "original_pixels_preserved_outside_logo": true
+  }
+]
